@@ -1,10 +1,42 @@
-title: "M A Rahman"
+title: "My Portfolio"
+
 logo: "/images/Profile img.png"
-description: >
-  Aspiring data scientist skilled in statistical analysis, machine learning, and data visualization. Proficient in Python and SQL. Experienced in developing
-  predictive models, conducting EDA, and deploying machine learning solutions. Strong problem-solving
-  abilities with a passion for continuous learning and
-  professional growth.
-show_downloads: true
+
+# Personal Portfolio Configuration
+
+  contact:
+    email: "your.email@example.com"
+    phone: "+123456789"
+    linkedin: "https://www.linkedin.com/in/your-profile"
+    github: "https://github.com/yourusername"
+    portfolio_website: "https://yourportfolio.com"
+
+summary:
+  - "Passionate data scientist with a focus on machine learning and predictive analytics."
+  - "Experienced in developing and deploying models for real-world applications."
+  - "Skilled in Python, R, SQL, and data visualization tools like Matplotlib, Seaborn, and Plotly."
+
+skills:
+  programming_languages:
+    - "Python"
+    - "R"
+    - "SQL"
+  data_science_tools:
+    - "Pandas"
+    - "NumPy"
+    - "Scikit-Learn"
+    - "TensorFlow"
+  visualization_tools:
+    - "Matplotlib"
+    - "Seaborn"
+    - "Plotly"
+    - "Tableau"
+  other_skills:
+    - "Data Cleaning"
+    - "Feature Engineering"
+    - "Model Evaluation"
+    - "Data-driven Decision Making"
+    
+show_downloads: false
 theme: jekyll-theme-minimal
 
