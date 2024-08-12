@@ -3,39 +3,12 @@ title: "My Portfolio"
 logo: "/images/Profile img.png"
 
 # Personal Portfolio Configuration
-
 contact:
-  email: "your.email@example.com"
-  phone: "+123456789"
-  linkedin: "https://www.linkedin.com/in/your-profile"
-  github: "https://github.com/yourusername"
-  portfolio_website: "https://yourportfolio.com"
+  email: "abdulrahman17309@gmail.com"
+  phone: "+91 8919206463"
+  linkedin: "https://www.linkedin.com/in/rahman17309/"
+  github: "https://github.com/Rahman17309"
+  portfolio_website: "https://rahman17309.github.io/Portfolio.github.io/"
 
-summary:
-  - "Passionate data scientist with a focus on machine learning and predictive analytics."
-  - "Experienced in developing and deploying models for real-world applications."
-  - "Skilled in Python, R, SQL, and data visualization tools like Matplotlib, Seaborn, and Plotly."
-
-skills:
-  programming_languages:
-    - "Python"
-    - "R"
-    - "SQL"
-  data_science_tools:
-    - "Pandas"
-    - "NumPy"
-    - "Scikit-Learn"
-    - "TensorFlow"
-  visualization_tools:
-    - "Matplotlib"
-    - "Seaborn"
-    - "Plotly"
-    - "Tableau"
-  other_skills:
-    - "Data Cleaning"
-    - "Feature Engineering"
-    - "Model Evaluation"
-    - "Data-driven Decision Making"
-    
 show_downloads: false
 theme: jekyll-theme-minimal
