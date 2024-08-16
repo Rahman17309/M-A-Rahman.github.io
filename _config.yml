@@ -1,13 +1,9 @@
 title: "My Portfolio"
-
 logo: "/images/Profile img.png"
-
-contact:
-  email: "abdulrahman17309@gmail.com"
-  phone: "+91 8919206463"
-  linkedin: "https://www.linkedin.com/in/rahman17309/"
-  github: "https://github.com/Rahman17309"
-  portfolio_website: "https://rahman17309.github.io/Portfolio.github.io/"
-
+email: "abdulrahman17309@gmail.com"
+phone: "+91 8919206463"
+linkedin: "https://www.linkedin.com/in/rahman17309/"
+github: "https://github.com/Rahman17309"
+portfolio_website: "https://rahman17309.github.io/Portfolio.github.io/"
 show_downloads: false
 theme: jekyll-theme-minimal
