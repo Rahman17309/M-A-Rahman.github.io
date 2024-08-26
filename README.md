@@ -20,9 +20,9 @@
 # Education
 **B.Tech. in Mechanical Engineering**
 
-**Jawaharlal Nehru Technological University Hyderabad | Mahabubnagar, Telangana**
+Jawaharlal Nehru Technological University Hyderabad | Mahabubnagar, Telangana
 
-***GPA: 75.58/100 | Graduation: May 2019***
+GPA: 75.58/100 | Graduation: May 2019
 
 # Relevant Courses:
 
@@ -36,6 +36,7 @@
 - Operating Systems & Networks
 
 # Skills:
+
 * Programming Languages: Python, R, SQL
 * Packages: Scikit-learn, TensorFlow, Keras, Pandas, NumPy, Matplotlib, Seaborn, Plotly, Tableau
 * Databases: PostgreSQL, MySQL, ETL
@@ -116,20 +117,27 @@
 # Certifications
 * [Internship Certification | AI Variant | Feb 09, 2024 – Present](https://www.linkedin.com/in/rahman17309/details/certifications/1723643466247/single-media-viewer/?profileId=ACoAAFD4q0QB-vyrZlEVV5m5Qe-oZM1pOuJpZiA)
 * [Data Science Certification | ExcleR Solutions | May 22, 2024](https://www.linkedin.com/in/rahman17309/details/certifications/1721892708802/single-media-viewer/?profileId=ACoAAFD4q0QB-vyrZlEVV5m5Qe-oZM1pOuJpZiA)
-* [**Masters Program in Data Science | NASSCOM, Government of India | Aug 12, 2024](https://fsp-assessment-certificates.s3.ap-southeast-1.amazonaws.com/%27/s3/buckets/fsp-assessment-certificates%27/M%2BA%2BRahman_7bea52m9kw.pdf.pdf)
+* [Masters Program in Data Science | NASSCOM, Government of India | Aug 12, 2024](https://fsp-assessment-certificates.s3.ap-southeast-1.amazonaws.com/%27/s3/buckets/fsp-assessment-certificates%27/M%2BA%2BRahman_7bea52m9kw.pdf.pdf)
 * [Machine Learning with Python | IBM Developer Skills Network | Jul 24, 2024](https://courses.cognitiveclass.ai/certificates/905173094c70460dbc4549de75bf8dca)
 * [Python 101 for Data Science | IBM Developer Skills Network | Jul 25, 2024](https://courses.cognitiveclass.ai/certificates/c25b40c6ce4d44cb9674c9a2fce4ad40)
+
   
 # Technical Tools
+
 - **IDE & Tools:** Jupyter Notebook, Colab Notebook, VSCode, PyCharm
+
 - **Collaboration Tools:** Slack, Zoom, Microsoft Teams
 
 # Additional Experience
+
 - **Data Structures & Algorithms | C++:** Implemented various algorithms to solve complex computational problems during academic projects.
+
 - **Operating Systems & Networking:** Gained foundational knowledge in OS concepts and computer networking, relevant to data science applications.
 
 # Interests
+
 - **Continuous Learning:** Staying updated with the latest trends in AI/ML through online courses and workshops.
+
 - **Open-Source Contribution:** Actively contributing to open-source projects in data science.
 
 # Langauges:
