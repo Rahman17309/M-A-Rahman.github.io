@@ -124,21 +124,21 @@ GPA: 75.58/100 | Graduation: May 2019
   
 # Technical Tools
 
-- **IDE & Tools:** Jupyter Notebook, Colab Notebook, VSCode, PyCharm
+  **IDE & Tools:** Jupyter Notebook, Colab Notebook, VSCode, PyCharm
 
-- **Collaboration Tools:** Slack, Zoom, Microsoft Teams
+  **Collaboration Tools:** Slack, Zoom, Microsoft Teams
 
 # Additional Experience
 
-- **Data Structures & Algorithms | C++:** Implemented various algorithms to solve complex computational problems during academic projects.
+ **Data Structures & Algorithms | C++:** Implemented various algorithms to solve complex computational problems during academic projects.
 
-- **Operating Systems & Networking:** Gained foundational knowledge in OS concepts and computer networking, relevant to data science applications.
+ **Operating Systems & Networking:** Gained foundational knowledge in OS concepts and computer networking, relevant to data science applications.
 
 # Interests
 
-- **Continuous Learning:** Staying updated with the latest trends in AI/ML through online courses and workshops.
+ **Continuous Learning:** Staying updated with the latest trends in AI/ML through online courses and workshops.
 
-- **Open-Source Contribution:** Actively contributing to open-source projects in data science.
+ **Open-Source Contribution:** Actively contributing to open-source projects in data science.
 
 # Langauges:
 - Urdu (Native)
