@@ -41,6 +41,27 @@
           <img src="{{ site.logo | relative_url }}" alt="Logo" />
         {% endif %}
 
+        <div class="profile-container">
+          <div class="profile-picture">
+            <img src="path/to/your/profile-picture.jpg" alt="Profile Picture" width="100" height="100" /> <!-- Adjust path and size -->
+          </div>
+          <div class="personal-details">
+            <h2>Personal Details</h2>
+            <ul>
+              <li><strong>Location:</strong> Your Location Here</li>
+              <li><strong>Email:</strong> <a href="mailto:your-email@example.com">your-email@example.com</a></li>
+              <li><strong>Phone:</strong> Your Phone Number Here</li>
+              <li><strong>GitHub:</strong> <a href="https://github.com/yourusername" target="_blank">GitHub Profile</a></li>
+              <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/yourprofile" target="_blank">LinkedIn Profile</a></li>
+            </ul>
+            <h3>Download My CV and Cover Letter</h3>
+            <ul class="downloads">
+              <li><a href="path/to/your/cv.pdf" download>Download CV</a></li>
+              <li><a href="path/to/your/cover-letter.pdf" download>Download Cover Letter</a></li>
+            </ul>
+          </div>
+        </div>
+
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
         {% if site.github.is_project_page %}
@@ -61,28 +82,6 @@
       </header>
 
       <section>
-        <div class="profile-container">
-          <div class="profile-picture">
-            <img src="path/to/your/profile-picture.jpg" alt="Profile Picture" width="100" height="100" /> <!-- Adjust path and size -->
-          </div>
-          <div class="personal-details">
-            <h2>Personal Details</h2>
-            <ul>
-              <li><strong>Location:</strong> Your Location Here</li>
-              <li><strong>Email:</strong> <a href="mailto:your-email@example.com">your-email@example.com</a></li>
-              <li><strong>Phone:</strong> Your Phone Number Here</li>
-              <li><strong>GitHub:</strong> <a href="https://github.com/yourusername" target="_blank">GitHub Profile</a></li>
-              <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/yourprofile" target="_blank">LinkedIn Profile</a></li>
-            </ul>
-            
-            <h2>Download My CV and Cover Letter</h2>
-            <ul class="downloads">
-              <li><a href="path/to/your/cv.pdf" download>Download CV</a></li>
-              <li><a href="path/to/your/cover-letter.pdf" download>Download Cover Letter</a></li>
-            </ul>
-          </div>
-        </div>
-
         {{ content }}
       </section>
 
