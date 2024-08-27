@@ -130,7 +130,7 @@ GPA: 75.58/100 | Graduation: May 2019
 
 # Additional Experience
 
- **Data Structures & Algorithms | C++:** Implemented various algorithms to solve complex computational problems during academic projects.
+ **Data Structures & Algorithms - C++:** Implemented various algorithms to solve complex computational problems during academic projects.
 
  **Operating Systems & Networking:** Gained foundational knowledge in OS concepts and computer networking, relevant to data science applications.
 
