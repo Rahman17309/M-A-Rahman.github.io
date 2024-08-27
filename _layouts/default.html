@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-{% seo %}
+    {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css"> <!-- Font Awesome for icons -->
     <!--[if lt IE 9]>
@@ -15,6 +15,20 @@
     <style>
       .personal-details {
         max-width: 300px; /* Limit width for personal details */
+        margin: 0 auto; /* Center the personal details */
+      }
+      
+      .btn {
+        display: block; /* Makes the button a block element */
+        text-align: center; /* Centers the text inside the button */
+        font-family: 'Times New Roman', Times, serif;
+        font-weight: bold;
+        color: black;
+        text-decoration: none;
+        padding: 10px 15px;
+        border: 2px solid black;
+        max-width: 300px; /* Limit width */
+        margin: 20px auto; /* Centers the button and adds space around it */
       }
     </style>
   </head>
@@ -32,16 +46,18 @@
         <div class="personal-details">
           <h2>Personal Details</h2>
           <ul>
-            <li><strong>Location:</strong> Dubai, UAE </li>
+            <li><strong>Location:</strong> Dubai, UAE</li>
             <li><strong>Email:</strong> <a href="mailto:rahmandatascience09@gmail.com">rahmandatascience09</a></li>
-            <li><strong>Phone:</strong>+9710545562285</li>
+            <li><strong>Phone:</strong> +9710545562285</li>
             <li><strong>GitHub:</strong> <a href="https://github.com/Rahman17309" target="_blank">GitHub Profile</a></li>
             <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/rahman17309" target="_blank">LinkedIn Profile</a></li>
             <li><strong>Medium:</strong> <a href="https://medium.com/@abdulrahman17309" target="_blank">Medium</a></li>
-            <a href="{{ site.github.repository_url }}/raw/main/Resume/MA%20Rahman.pdf" download="MA_Rahman.pdf" class="btn">Download CV</a>
           </ul>
+          
+          <h3>
+            <a href="{{ site.github.repository_url }}/raw/main/Resume/MA%20Rahman.pdf" download="MA_Rahman.pdf" class="btn">Download CV</a>
+          </h3>
         </div>
-
       </header>
 
       <section>
