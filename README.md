@@ -94,11 +94,11 @@ GPA: 75.58/100 | Graduation: May 2019
 ##### Jul 2024 - Aug 2024
 ##### Tools: Python, Gradient Boosting, XGBoost, Scikit-learn, Streamlit
 
--Created a predictive model to estimate solar power generation with 88% accuracy, assisting energy companies in optimizing resource allocation and reducing operational costs by 12%.
+- Created a predictive model to estimate solar power generation with 88% accuracy, assisting energy companies in optimizing resource allocation and reducing operational costs by 12%.
 
--Improved accuracy of energy forecasts, leading to better grid management and reduced energy waste.
+- Improved accuracy of energy forecasts, leading to better grid management and reduced energy waste.
 
--Applied advanced feature engineering techniques, improving model performance and providing deeper insights into the key drivers of solar power generation.
+- Applied advanced feature engineering techniques, improving model performance and providing deeper insights into the key drivers of solar power generation.
 
 # Certifications
 * [Internship Certification - AI Variant  *Feb 09, 2024 – Present*](https://www.linkedin.com/in/rahman17309/details/certifications/1723643466247/single-media-viewer/?profileId=ACoAAFD4q0QB-vyrZlEVV5m5Qe-oZM1pOuJpZiA)
