@@ -1,20 +1,6 @@
 # M A Rahman
 
-## *Data Scientist - Data Analyst*
-
 *Aspiring data scientist with a strong foundation in statistical analysis, machine learning, and data visualization. Proficient in Python and SQL, with hands-on experience in developing predictive models, conducting EDA, and deploying machine learning solutions. I possess strong problem-solving abilities and a passion for continuous learning and professional growth.*
-
-
-* Location: Dubai, United Arab Emirates 
-
-* Phone: (+971) 545562285
-
-* Email: rahmandatascience09@gmail.com
-
-* *[GitHub](https://github.com/Rahman17309)* 
-
-* *[LinkedIn](https://www.linkedin.com/in/rahman17309/)*
-
 
 
 # Education
