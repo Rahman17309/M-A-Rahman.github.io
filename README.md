@@ -80,7 +80,7 @@ GPA: 75.58/100 | Graduation: May 2019
 - Introduced an ensemble approach combining various models, resulting in a more accurate and generalizable solution.
 
   
-## NLP Sentiment & Classification Analysis
+## [NLP Sentiment & Classification Analysis](https://github.com/Rahman17309/NLP-Sentiment-Classification-Analysis)
 ##### May 2024 - Jun 2024
 ##### Tools: Python, NLTK, Scikit-learn, Plotly, Selenium, Flask
 
@@ -90,7 +90,7 @@ GPA: 75.58/100 | Graduation: May 2019
 
 - Automated data scraping for real-time analysis, enhancing model responsiveness.
   
-## Solar Power Prediction
+## [Solar Power Prediction](https://github.com/Rahman17309/Solar-Power-Prediction)
 ##### Jul 2024 - Aug 2024
 ##### Tools: Python, Gradient Boosting, XGBoost, Scikit-learn, Streamlit
 
