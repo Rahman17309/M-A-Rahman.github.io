@@ -56,6 +56,19 @@ GPA: 75.58/100 | Graduation: May 2019
 
 **Industry-Relevant Skills:** Acquired skills in machine learning algorithms, data wrangling, and data visualization tools, preparing for real-world data science challenges.
 
+## Catalog Specialist | Amazon | Hyderabad, India
+### May 2022 - May 2023	
+
+**Process Automation:** Spearheaded the design and implementation of Excel macros, automating seller support and daily operations. Achieved a 25% increase in process efficiency, significantly reducing manual workload.
+
+**Data Management:** Leveraged Hubble Query Language and ETL processes to extract, transform, and load data, optimizing data flow and enhancing catalog management accuracy.
+
+**Operational Optimization:** Played a key role in the Seller Flex and transparency projects by automating routine processes, minimizing manual intervention, and boosting task precision.
+
+**Cross-functional Collaboration:** Partnered with diverse teams to improve seller support systems, fostering a more streamlined and efficient workflow across departments.
+
+**Continuous Improvement:** Employed automation tools and data analysis to consistently monitor and enhance cataloging processes, ensuring high standards of data integrity and operational excellence.
+
 # Projects
 
 ## [Apple Stock Forecasting](https://github.com/Rahman17309/Apple-stock-forecasting-project-)
